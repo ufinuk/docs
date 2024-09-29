@@ -6,8 +6,15 @@
 ![image](https://github.com/user-attachments/assets/5ca1a736-4ef5-4e0b-a8a1-34153cf78358)
 
 ## **2. GENERAL INTRODUCTION**
-UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
-![image](https://github.com/user-attachments/assets/eee28c7a-a231-4599-9de7-49879bf63707)
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding-right: 20px;">
+        UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
+    </div>
+    <div style="flex: 0 0 200px; text-align: right;">
+        <img src="https://github.com/user-attachments/assets/bacaa26c-f0df-4e1d-baf1-b771c9bbe9de" alt="image02-1" style="width: 100%; height: auto;">
+        <img src="https://github.com/user-attachments/assets/eee28c7a-a231-4599-9de7-49879bf63707" alt="image02-2" style="width: 100%; height: auto;">
+    </div>
+</div>
 
 ## **3. HISTORY OF FORMATION AND DEVELOPMENT**
 ### **2017:** Inception from a technology investment conglomerate in the United Kingdom.
@@ -20,7 +27,7 @@ UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over t
 ![image](https://github.com/user-attachments/assets/0626cc27-1053-486e-9513-8ace7d6f4850)
 
 ## 8 Subsidiary Companies
-### With the desire to support and create a network of highly potential businesses, forming a comprehensive ecosystem with all the amenities and functionalities for users, UFIN Group has established the following subsidiary companies:
+### With the desire to support and create a network of highly potential businesses, forming a comprehensive ecosystem with all the amenities and functionalities for users, UFIN Group has established the following subsidiary companies: <br>
 ![image](https://github.com/user-attachments/assets/400dcbe3-69fe-4ea9-9d26-d47146562c07)
 
 | Company Name                          | Address                                            |
