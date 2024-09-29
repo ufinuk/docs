@@ -2,8 +2,8 @@
 ![image](https://github.com/user-attachments/assets/fb534183-b62c-4849-94d1-ad8659e289b9)
 
 ## **1. MESSAGE FROM THE FOUNDER**
-![image](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
-![image](https://github.com/user-attachments/assets/5ca1a736-4ef5-4e0b-a8a1-34153cf78358)
+![image01-1](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
+![image01-2](https://github.com/user-attachments/assets/5ca1a736-4ef5-4e0b-a8a1-34153cf78358)
 
 ## **2. GENERAL INTRODUCTION**
 ### UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
@@ -16,11 +16,11 @@
 ### **2021:** Successful fundraising of $21 million in the Seed Round.
 ### **2022:** UFIN raised over $100 million for partner projects.
 ### **2023:** UFIN intensifies the development of the Web3 sector.
-![image](https://github.com/user-attachments/assets/0626cc27-1053-486e-9513-8ace7d6f4850)
+![image03-1](https://github.com/user-attachments/assets/0626cc27-1053-486e-9513-8ace7d6f4850)
 
 ## 8 Subsidiary Companies
 ### With the desire to support and create a network of highly potential businesses, forming a comprehensive ecosystem with all the amenities and functionalities for users, UFIN Group has established the following subsidiary companies: <br>
-![image](https://github.com/user-attachments/assets/400dcbe3-69fe-4ea9-9d26-d47146562c07)
+![image03-2](https://github.com/user-attachments/assets/400dcbe3-69fe-4ea9-9d26-d47146562c07)
 
 | Company Name                          | Address  <br> MAIN OFFICE                           |
 |---------------------------------------|----------------------------------------------------|
@@ -41,6 +41,21 @@ UFIN will become the Web3 incubator with users at the center, building successfu
 To create an environment rich in resources, tools, and the best necessary support for businesses to develop and expand sustainably and successfully on the Web3 platform.<br>
 **CORE VALUES** <br>
 TRUST - ASSISTANCE - DEDICATION <br>
+
+### **MISSION OF UFIN GROUP**
+#### SUPPORT **1 MILLION** STARTUPS AND BUSINESSES GLOBALLY IN EMBRACING THE WEB3INTERNET ERA.
+#### **Connect:** Identify and connect with partner providers of products and services to support the Web3 ecosystem. Additionally, UFIN assists new projects in marketing and promoting their products and services on the Web3 platform
+#### **Educate:** Provide high-quality educational programs and training to help the community and businesses gain a better understanding of Web3, its approaches, models, and related technologies.
+#### **Empower:** Select businesses aligned with the Web3 direction and assist them in restructuring and effectively utilizing value-added services within the Web3 ecosystem. Furthermore, UFIN provides the necessary capital and resources for startups and new projects to develop their products and services on the Web3 platform.
+
+### **THE VALUES UFIN GROUP DELIVERS**
+#### - Providing developers, startups, and investors with a comprehensive environment of tools and resources to develop breakthrough products and services based on **Blockchain and Web3 technologies**.
+#### - Offering services to streamline the process of integrating **Web3 trends** into businesses effectively.
+#### - Assisting businesses in **implementing Web3** at the lowest cost and with full infrastructure support.
+#### - Enabling businesses to quickly enter the market.
+
+### **OBJECTIVES OF UFIN GROUP**
+![image03-3](https://github.com/user-attachments/assets/4fa865ab-5753-4595-8e43-9a4c5bd7a383)
 
 ## **4. UFIN GROUP ECOSYSTEM**
 ![image04](https://github.com/user-attachments/assets/ce6ce3f6-25a6-4dc2-b674-3b2de7a69b7d)
