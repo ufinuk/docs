@@ -1,5 +1,5 @@
 # <p align="center">**Ufin - BUILD THE WEB3 ERA!**</p>
-![image](https://github.com/user-attachments/assets/fb534183-b62c-4849-94d1-ad8659e289b9)
+![image](https://github.com/user-attachments/assets/0c9d6833-44c7-4bef-b508-ce00053e3d80)
 
 ## **1. MESSAGE FROM THE FOUNDER**
 ![image01-1](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
@@ -16,7 +16,7 @@
 ### **2021:** Successful fundraising of $21 million in the Seed Round.
 ### **2022:** UFIN raised over $100 million for partner projects.
 ### **2023:** UFIN intensifies the development of the Web3 sector.
-![image03-1](https://github.com/user-attachments/assets/0626cc27-1053-486e-9513-8ace7d6f4850)
+![image03-1](https://github.com/user-attachments/assets/ec4bfafd-623f-49fb-9c12-0a639335adff)
 
 ## 8 Subsidiary Companies
 ### With the desire to support and create a network of highly potential businesses, forming a comprehensive ecosystem with all the amenities and functionalities for users, UFIN Group has established the following subsidiary companies: <br>
