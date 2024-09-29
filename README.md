@@ -6,15 +6,7 @@
 ![image](https://github.com/user-attachments/assets/5ca1a736-4ef5-4e0b-a8a1-34153cf78358)
 
 ## **2. GENERAL INTRODUCTION**
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding-right: 20px;">
-        UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
-    </div>
-    <div style="flex: 0 0 200px; text-align: right;">
-        <img src="https://github.com/user-attachments/assets/bacaa26c-f0df-4e1d-baf1-b771c9bbe9de" alt="image02-1" style="width: 100%; height: auto;">
-        <img src="https://github.com/user-attachments/assets/eee28c7a-a231-4599-9de7-49879bf63707" alt="image02-2" style="width: 100%; height: auto;">
-    </div>
-</div>
+### UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
 
 ## **3. HISTORY OF FORMATION AND DEVELOPMENT**
 ### **2017:** Inception from a technology investment conglomerate in the United Kingdom.
@@ -30,14 +22,15 @@
 ### With the desire to support and create a network of highly potential businesses, forming a comprehensive ecosystem with all the amenities and functionalities for users, UFIN Group has established the following subsidiary companies: <br>
 ![image](https://github.com/user-attachments/assets/400dcbe3-69fe-4ea9-9d26-d47146562c07)
 
-| Company Name                          | Address                                            |
+| Company Name                          | Address  <br> MAIN OFFICE                           |
 |---------------------------------------|----------------------------------------------------|
 | UNICORN FINTECH (UFIN) LIMITED       | 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX |
 | UFIN LABS PTE. LTD.                  | 60 Paya Lebar Road #12-03 Paya Lebar Square Singapore 409501 |
-| UFIN FOUNDATION                       | House of Francis, Room 4, 1st Floor, Mahe, Seychelles |
-| MATA TECHNOLOGY SERVICES AND TRADE   | 81 Le Thanh Nghi, Tam Dan Ward, Ha Binh Truc District, Hanoi, Vietnam |
-| TOURISTOF                             | 316 Le Van Sy, Ward 14, Tan Binh District, Ho Chi Minh City, Vietnam |
-| UFIN TECHNOLOGY JOINT STOCK COMPANY   | Group B, To Hieu Ward, Son La Province, Vietnam    |
+| UFIN LIMITED                         | House of Francis, Room 4, 1st Floor, Mahe, Seychelles |
+| UFIN FOUNDATION                       | 1st Floor Torre Advanced Building, Ricardo Arias Street, Panama City, Republic of Panama |
+| MATA TECHNOLOGY SERVICES AND TRADING COMPANY LIMITED   | 83 Le Thanh Nghi, Tam Dan Ward, Ha Binh Truc District, Hanoi, Vietnam |
+| TUOITRESOFT                             | 316 Le Van Sy, Ward 14, Tan Binh District, Ho Chi Minh City, Vietnam |
+| PAZO VIETNAM JOINT STOCK COMPANY   | Group B, To Hieu Ward, Son La Province, Vietnam    |
 | UFIN TECHNOLOGY JOINT STOCK COMPANY  | 14th Floor, HM Town Building, 412 Nguyen Thi Minh Khai, Ward 05, District 3, Ho Chi Minh City, Vietnam |
 
 ### VISION - MISSION
@@ -53,10 +46,37 @@ TRUST - ASSISTANCE - DEDICATION <br>
 ![image04](https://github.com/user-attachments/assets/ce6ce3f6-25a6-4dc2-b674-3b2de7a69b7d)
 
 ## **5. UFIN GROUP RESOURCES**
-
+![image05](https://github.com/user-attachments/assets/fdbea62c-2578-48d9-8f31-0326d237a9f8)
 
 ## **6. UFIN GROUP ACTIVITIES**
 ![image06](https://github.com/user-attachments/assets/0b25c9cb-0af7-4a85-a56d-321ee43f8bf4)
+### **06 UFIN ORGANIZATIONS PARTICIPATING AS MEMBERS**
+#### 1. Blockchain Vietnam Association
+#### 2. Vinasa Information Technology Association
+#### 3. Blockchain Alliance
+#### 4. NFT Alliance
+#### 5. Saigon Entrepreneurs Club
+#### 6. Vietnam E-commerce Association (VECOM)
+
+### **06 UNIVERSITIES AND ACADEMIES SIGNED UP FOR THE UNIVERSITY TOUR**
+#### 1. FUNiX Online University
+#### 2. University of Greenwich
+#### 3. Udemy
+#### 4. Faculty of Finance and Banking - Ton Duc Thang University
+#### 5. Fintech and Financial Investment Club (HUFIC) - University of Foreign Languages and Information Technology (HUFLIT)
+#### 6. Lcademy
+
+### **50++ EVENTS SPONSORED BY UFIN GROUP**
+####Manga ComicCon 2022, ICBAFM 2022, YGG SEA Vietnam Launch event, Metaverse Nova Idol 2022, Brand Booster, Marvels HCMC 2023, Dat Sen Hong Tour Master, Fintech and Blockchain Expo at the University of Foreign Languages and Information Technology, Blockchain Talk - CryptoLeakVN…
+
+### **30++ EVENTS WHERE UFIN GROUP PARTICIPATED AS SPEAKERS**
+#### ICBAFM 2022 , Crypto for Beginners by MetaGate, talkshow “GameFi and the gaming industry revolution”, P2E Expo, Blockchain Talk do Vietnam Blockchain Chapter, VietnamMobileday 2023, Lcademy
+
+### **100++ PROJECTS NURTURED AND SUPPORTED BY UFIN WITH RESOURCES AND FINANCIAL BACKING**
+
+### **$125 MILLION UFIN ATTRACTS INVESTMENTS FROM INVESTMENT FUNDS**
+#### - $25 million invested in UFIN projects.
+#### - $100 million invested in projects supported by UFIN.
 
 ## **7. UFIN GROUP TEAM**
 ![image07](https://github.com/user-attachments/assets/096ed9f8-3097-494e-acc6-23d6276a1cfc)
