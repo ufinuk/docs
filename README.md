@@ -66,7 +66,7 @@
 ## **6. UFIN GROUP ACTIVITIES**
 ![image06](https://github.com/user-attachments/assets/0b25c9cb-0af7-4a85-a56d-321ee43f8bf4)
 ### **06 UFIN ORGANIZATIONS PARTICIPATING AS MEMBERS**
-- 1. Blockchain Vietnam Association
+- 1.Blockchain Vietnam Association
 - 2. Vinasa Information Technology Association
 - 3. Blockchain Alliance
 - 4. NFT Alliance
@@ -88,7 +88,7 @@
 ![image06-3](https://github.com/user-attachments/assets/522adcef-bf1f-439a-b1c8-c5861b0b54b7)
 
 ### **30++ EVENTS WHERE UFIN GROUP PARTICIPATED AS SPEAKERS**
-#### ICBAFM 2022 , Crypto for Beginners by MetaGate, talkshow “GameFi and the gaming industry revolution”, P2E Expo, Blockchain Talk do Vietnam Blockchain Chapter, VietnamMobileday 2023, Lcademy
+#### ICBAFM 2022 , Crypto for Beginners by MetaGate, talkshow “GameFi and the gaming industry revolution”, P2E Expo, Blockchain Talk do Vietnam Blockchain Chapter, VietnamMobileday 2023, Lcademy <br>
 ![image06-4](https://github.com/user-attachments/assets/46d19966-4c60-4df8-bfcc-95aa53972531)
 ![image06-5](https://github.com/user-attachments/assets/3e87b907-cc3b-4f9e-8988-81b0ddbd73e0)
 
