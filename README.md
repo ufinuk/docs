@@ -58,7 +58,7 @@ TRUST - ASSISTANCE - DEDICATION <br>
 ![image03-3](https://github.com/user-attachments/assets/4fa865ab-5753-4595-8e43-9a4c5bd7a383)
 
 ## **4. UFIN GROUP ECOSYSTEM**
-![image04](https://github.com/user-attachments/assets/ce6ce3f6-25a6-4dc2-b674-3b2de7a69b7d)
+![image04](https://github.com/user-attachments/assets/c7fd61e0-0559-470f-9e68-b113aa706543)
 
 ## **5. UFIN GROUP RESOURCES**
 ![image05](https://github.com/user-attachments/assets/fdbea62c-2578-48d9-8f31-0326d237a9f8)
@@ -82,7 +82,7 @@ TRUST - ASSISTANCE - DEDICATION <br>
 #### 6. Lcademy
 
 ### **50++ EVENTS SPONSORED BY UFIN GROUP**
-####Manga ComicCon 2022, ICBAFM 2022, YGG SEA Vietnam Launch event, Metaverse Nova Idol 2022, Brand Booster, Marvels HCMC 2023, Dat Sen Hong Tour Master, Fintech and Blockchain Expo at the University of Foreign Languages and Information Technology, Blockchain Talk - CryptoLeakVN…
+#### Manga ComicCon 2022, ICBAFM 2022, YGG SEA Vietnam Launch event, Metaverse Nova Idol 2022, Brand Booster, Marvels HCMC 2023, Dat Sen Hong Tour Master, Fintech and Blockchain Expo at the University of Foreign Languages and Information Technology, Blockchain Talk - CryptoLeakVN…
 
 ### **30++ EVENTS WHERE UFIN GROUP PARTICIPATED AS SPEAKERS**
 #### ICBAFM 2022 , Crypto for Beginners by MetaGate, talkshow “GameFi and the gaming industry revolution”, P2E Expo, Blockchain Talk do Vietnam Blockchain Chapter, VietnamMobileday 2023, Lcademy
