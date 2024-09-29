@@ -67,20 +67,21 @@
 ![image06](https://github.com/user-attachments/assets/0b25c9cb-0af7-4a85-a56d-321ee43f8bf4)
 ### **06 UFIN ORGANIZATIONS PARTICIPATING AS MEMBERS**
 - 1.Blockchain Vietnam Association
-- 2. Vinasa Information Technology Association
-- 3. Blockchain Alliance
-- 4. NFT Alliance
-- 5. Saigon Entrepreneurs Club
-- 6. Vietnam E-commerce Association (VECOM)
+- 2.Vinasa Information Technology Association
+- 3.Blockchain Alliance
+- 4.NFT Alliance
+- 5.Saigon Entrepreneurs Club
+- 6.Vietnam E-commerce Association (VECOM)
 ![image06-1](https://github.com/user-attachments/assets/f63ef2ec-3f3a-491b-b5ef-797923fb11b5)
 
 ### **06 UNIVERSITIES AND ACADEMIES SIGNED UP FOR THE UNIVERSITY TOUR**
-- 1. FUNiX Online University
-- 2. University of Greenwich
-- 3. Udemy
-- 4. Faculty of Finance and Banking - Ton Duc Thang University
-- 5. Fintech and Financial Investment Club (HUFIC) - University of Foreign Languages and Information Technology (HUFLIT)
-- 6. Lcademy
+- 1.FUNiX Online University
+- 2.University of Greenwich
+- 3.Udemy
+- 4.Faculty of Finance and Banking - Ton Duc Thang University
+- 5.Fintech and Financial Investment Club (HUFIC) - University of Foreign Languages and Information Technology (HUFLIT)
+- 6.Lcademy
+
 ![image06-2](https://github.com/user-attachments/assets/55c60b99-c241-4511-8817-0135718d833f)
 
 ### **50++ EVENTS SPONSORED BY UFIN GROUP**
