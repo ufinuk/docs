@@ -82,24 +82,24 @@
 ## **12. THE MEDIA REPORTED ABOUT US**
 ![image](https://github.com/user-attachments/assets/46c18890-a471-4b10-b717-21e1a4bf9e83)
 
-[https://vnexpress.net/co-hoi-viec-lam-trong-web3-4611257.html](https://vnexpress.net/co-hoi-viec-lam-trong-web3-4611257.html)
-[https://vnexpress.net/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-4290840.html](https://vnexpress.net/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-4290840.html)
-[https://vnexpress.net/cong-ty-blockchain-ufin-huy-dong-21-trieu-usd-4276907.html](https://vnexpress.net/cong-ty-blockchain-ufin-huy-dong-21-trieu-usd-4276907.html)
-[https://lamgiau.laodongthudo.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-3604.html](https://lamgiau.laodongthudo.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-3604.html)
-[https://dangcongsan.vn/kinh-te-va-hoi-nhap/hop-tac-dao-tao-va-cung-ung-nhan-luc-cho-nganh-web3-638782.html](https://dangcongsan.vn/kinh-te-va-hoi-nhap/hop-tac-dao-tao-va-cung-ung-nhan-luc-cho-nganh-web3-638782.html)
-[https://thanhnienviet.vn/2023/05/29/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so/](https://thanhnienviet.vn/2023/05/29/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so/)
-[https://thoibaonganhang.vn/tiem-nang-thi-truong-web3-trong-ky-nguyen-so-139975.html](https://thoibaonganhang.vn/tiem-nang-thi-truong-web3-trong-ky-nguyen-so-139975.html)
-[https://vnautomate.net/gioi-tre-ky-vong-web3-se-mang-lai-nhieu-co-hoi-viec-lam-trong-ky-nguyen-so.html](https://vnautomate.net/gioi-tre-ky-vong-web3-se-mang-lai-nhieu-co-hoi-viec-lam-trong-ky-nguyen-so.html)
-[https://diendandoanhnghiep.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-244820.html](https://diendandoanhnghiep.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-244820.html)
-[https://ictvietnam.vn/nhung-ky-nang-can-co-de-khai-thac-co-hoi-lam-giau-tu-web-3-0-57460.html](https://ictvietnam.vn/nhung-ky-nang-can-co-de-khai-thac-co-hoi-lam-giau-tu-web-3-0-57460.html)
-[https://vietnamfdi.com.vn/trien-vong-cong-viec-nganh-web3-trong-ky-nguyen-so-a166814.html](https://vietnamfdi.com.vn/trien-vong-cong-viec-nganh-web3-trong-ky-nguyen-so-a166814.html)
-[https://doanhnhansaigon.vn/ufin-group-va-funix-ra-mat-chuong-trinh-web3-job-fair-global-298598.html](https://doanhnhansaigon.vn/ufin-group-va-funix-ra-mat-chuong-trinh-web3-job-fair-global-298598.html)
-[https://thoisutoancanh.com/cong-ty-blockchain-ufin-nhan-von-dau-tu-21-trieu-usd-a12591.html](https://thoisutoancanh.com/cong-ty-blockchain-ufin-nhan-von-dau-tu-21-trieu-usd-a12591.html)
-[https://doanhnhansaigon.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-211283.html](https://doanhnhansaigon.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-211283.html)
-[https://doanhnhantrevietnam.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-d7363.html](https://doanhnhantrevietnam.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-d7363.html)
-[https://vietnamfinance.vn/ufin-cua-anh-hop-tac-voi-doanh-nghiep-viet-nam-ra-mat-nen-tang-cong-nghe-20180504224254181.html](https://vietnamfinance.vn/ufin-cua-anh-hop-tac-voi-doanh-nghiep-viet-nam-ra-mat-nen-tang-cong-nghe-20180504224254181.html)
-[http://www.cngcntt.hanoi.gov.vn/vn/tin-tuc/Lien-minh-DTS-hop-tac-Ufin-ung-dung-cong-nghe-Blockchain-trong-chuyen-doi-so](http://www.cngcntt.hanoi.gov.vn/vn/tin-tuc/Lien-minh-DTS-hop-tac-Ufin-ung-dung-cong-nghe-Blockchain-trong-chuyen-doi-so)
-[https://vecom.vn/unicorn-fintech-ufin-limited](https://vecom.vn/unicorn-fintech-ufin-limited)
+[https://vnexpress.net/co-hoi-viec-lam-trong-web3-4611257.html](https://vnexpress.net/co-hoi-viec-lam-trong-web3-4611257.html) <br>
+[https://vnexpress.net/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-4290840.html](https://vnexpress.net/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-4290840.html) <br>
+[https://vnexpress.net/cong-ty-blockchain-ufin-huy-dong-21-trieu-usd-4276907.html](https://vnexpress.net/cong-ty-blockchain-ufin-huy-dong-21-trieu-usd-4276907.html) <br>
+[https://lamgiau.laodongthudo.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-3604.html](https://lamgiau.laodongthudo.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-3604.html) <br>
+[https://dangcongsan.vn/kinh-te-va-hoi-nhap/hop-tac-dao-tao-va-cung-ung-nhan-luc-cho-nganh-web3-638782.html](https://dangcongsan.vn/kinh-te-va-hoi-nhap/hop-tac-dao-tao-va-cung-ung-nhan-luc-cho-nganh-web3-638782.html) <br>
+[https://thanhnienviet.vn/2023/05/29/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so/](https://thanhnienviet.vn/2023/05/29/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so/) <br>
+[https://thoibaonganhang.vn/tiem-nang-thi-truong-web3-trong-ky-nguyen-so-139975.html](https://thoibaonganhang.vn/tiem-nang-thi-truong-web3-trong-ky-nguyen-so-139975.html) <br>
+[https://vnautomate.net/gioi-tre-ky-vong-web3-se-mang-lai-nhieu-co-hoi-viec-lam-trong-ky-nguyen-so.html](https://vnautomate.net/gioi-tre-ky-vong-web3-se-mang-lai-nhieu-co-hoi-viec-lam-trong-ky-nguyen-so.html) <br>
+[https://diendandoanhnghiep.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-244820.html](https://diendandoanhnghiep.vn/nhieu-co-hoi-viec-lam-web3-trong-ky-nguyen-so-244820.html) <br>
+[https://ictvietnam.vn/nhung-ky-nang-can-co-de-khai-thac-co-hoi-lam-giau-tu-web-3-0-57460.html](https://ictvietnam.vn/nhung-ky-nang-can-co-de-khai-thac-co-hoi-lam-giau-tu-web-3-0-57460.html) <br>
+[https://vietnamfdi.com.vn/trien-vong-cong-viec-nganh-web3-trong-ky-nguyen-so-a166814.html](https://vietnamfdi.com.vn/trien-vong-cong-viec-nganh-web3-trong-ky-nguyen-so-a166814.html) <br> 
+[https://doanhnhansaigon.vn/ufin-group-va-funix-ra-mat-chuong-trinh-web3-job-fair-global-298598.html](https://doanhnhansaigon.vn/ufin-group-va-funix-ra-mat-chuong-trinh-web3-job-fair-global-298598.html) <br>
+[https://thoisutoancanh.com/cong-ty-blockchain-ufin-nhan-von-dau-tu-21-trieu-usd-a12591.html](https://thoisutoancanh.com/cong-ty-blockchain-ufin-nhan-von-dau-tu-21-trieu-usd-a12591.html) <br>
+[https://doanhnhansaigon.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-211283.html](https://doanhnhansaigon.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-211283.html) <br>
+[https://doanhnhantrevietnam.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-d7363.html](https://doanhnhantrevietnam.vn/ufin-ra-mat-he-dieu-hanh-phi-tap-trung-hora-os-d7363.html) <br>
+[https://vietnamfinance.vn/ufin-cua-anh-hop-tac-voi-doanh-nghiep-viet-nam-ra-mat-nen-tang-cong-nghe-20180504224254181.html](https://vietnamfinance.vn/ufin-cua-anh-hop-tac-voi-doanh-nghiep-viet-nam-ra-mat-nen-tang-cong-nghe-20180504224254181.html) <br>
+[http://www.cngcntt.hanoi.gov.vn/vn/tin-tuc/Lien-minh-DTS-hop-tac-Ufin-ung-dung-cong-nghe-Blockchain-trong-chuyen-doi-so](http://www.cngcntt.hanoi.gov.vn/vn/tin-tuc/Lien-minh-DTS-hop-tac-Ufin-ung-dung-cong-nghe-Blockchain-trong-chuyen-doi-so) <br>
+[https://vecom.vn/unicorn-fintech-ufin-limited](https://vecom.vn/unicorn-fintech-ufin-limited) <br>
 
 ## **13. UFIN GROUP ADVISORS AND AMBASSADORS**
 ### **ADVISORS**
