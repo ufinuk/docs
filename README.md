@@ -1,4 +1,5 @@
 # <p align="center">**Ufin - BUILD THE WEB3 ERA!**</p>
+![image](https://github.com/user-attachments/assets/b74ea71d-9429-4adc-846e-7593d9a6efb1)
 
 
 ## **1. GENERAL INTRODUCTION**
