@@ -66,21 +66,21 @@
 ## **6. UFIN GROUP ACTIVITIES**
 ![image06](https://github.com/user-attachments/assets/0b25c9cb-0af7-4a85-a56d-321ee43f8bf4)
 ### **06 UFIN ORGANIZATIONS PARTICIPATING AS MEMBERS**
-#### 1. Blockchain Vietnam Association
-#### 2. Vinasa Information Technology Association
-#### 3. Blockchain Alliance
-#### 4. NFT Alliance
-#### 5. Saigon Entrepreneurs Club
-#### 6. Vietnam E-commerce Association (VECOM)
+- 1. Blockchain Vietnam Association
+- 2. Vinasa Information Technology Association
+- 3. Blockchain Alliance
+- 4. NFT Alliance
+- 5. Saigon Entrepreneurs Club
+- 6. Vietnam E-commerce Association (VECOM)
 ![image06-1](https://github.com/user-attachments/assets/f63ef2ec-3f3a-491b-b5ef-797923fb11b5)
 
 ### **06 UNIVERSITIES AND ACADEMIES SIGNED UP FOR THE UNIVERSITY TOUR**
-#### 1. FUNiX Online University
-#### 2. University of Greenwich
-#### 3. Udemy
-#### 4. Faculty of Finance and Banking - Ton Duc Thang University
-#### 5. Fintech and Financial Investment Club (HUFIC) - University of Foreign Languages and Information Technology (HUFLIT)
-#### 6. Lcademy
+- 1. FUNiX Online University
+- 2. University of Greenwich
+- 3. Udemy
+- 4. Faculty of Finance and Banking - Ton Duc Thang University
+- 5. Fintech and Financial Investment Club (HUFIC) - University of Foreign Languages and Information Technology (HUFLIT)
+- 6. Lcademy
 ![image06-2](https://github.com/user-attachments/assets/55c60b99-c241-4511-8817-0135718d833f)
 
 ### **50++ EVENTS SPONSORED BY UFIN GROUP**
@@ -96,8 +96,8 @@
 ![image06-6](https://github.com/user-attachments/assets/e345b833-4168-4893-bdc3-5644065640c3)
 
 ### **$125 MILLION UFIN ATTRACTS INVESTMENTS FROM INVESTMENT FUNDS**
-#### - $25 million invested in UFIN projects.
-#### - $100 million invested in projects supported by UFIN.
+- $25 million invested in UFIN projects.
+- $100 million invested in projects supported by UFIN.
 
 ## **7. UFIN GROUP TEAM**
 ![image07](https://github.com/user-attachments/assets/096ed9f8-3097-494e-acc6-23d6276a1cfc)
