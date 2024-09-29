@@ -35,18 +35,18 @@
 
 ### VISION - MISSION
 #### **VISION** <br>
-##### We believe that Web3 will break all boundaries, empower all users, and create a truly free world.<br>
-##### UFIN will become the Web3 incubator with users at the center, building successful Web3 businesses by delivering value to the community.<br>
+- We believe that Web3 will break all boundaries, empower all users, and create a truly free world.<br>
+- UFIN will become the Web3 incubator with users at the center, building successful Web3 businesses by delivering value to the community.<br>
 #### **MISSION** <br>
-##### To create an environment rich in resources, tools, and the best necessary support for businesses to develop and expand sustainably and successfully on the Web3 platform.<br>
+- To create an environment rich in resources, tools, and the best necessary support for businesses to develop and expand sustainably and successfully on the Web3 platform.<br>
 #### **CORE VALUES** <br>
-##### TRUST - ASSISTANCE - DEDICATION <br>
+- TRUST - ASSISTANCE - DEDICATION <br>
 
 ### **MISSION OF UFIN GROUP**
 #### SUPPORT **1 MILLION** STARTUPS AND BUSINESSES GLOBALLY IN EMBRACING THE WEB3INTERNET ERA.
-#### **Connect:** Identify and connect with partner providers of products and services to support the Web3 ecosystem. Additionally, UFIN assists new projects in marketing and promoting their products and services on the Web3 platform
-#### **Educate:** Provide high-quality educational programs and training to help the community and businesses gain a better understanding of Web3, its approaches, models, and related technologies.
-#### **Empower:** Select businesses aligned with the Web3 direction and assist them in restructuring and effectively utilizing value-added services within the Web3 ecosystem. Furthermore, UFIN provides the necessary capital and resources for startups and new projects to develop their products and services on the Web3 platform.
+#### - **Connect:** Identify and connect with partner providers of products and services to support the Web3 ecosystem. Additionally, UFIN assists new projects in marketing and promoting their products and services on the Web3 platform
+#### - **Educate:** Provide high-quality educational programs and training to help the community and businesses gain a better understanding of Web3, its approaches, models, and related technologies.
+#### - **Empower:** Select businesses aligned with the Web3 direction and assist them in restructuring and effectively utilizing value-added services within the Web3 ecosystem. Furthermore, UFIN provides the necessary capital and resources for startups and new projects to develop their products and services on the Web3 platform.
 
 ### **THE VALUES UFIN GROUP DELIVERS**
 #### - Providing developers, startups, and investors with a comprehensive environment of tools and resources to develop breakthrough products and services based on **Blockchain and Web3 technologies**.
