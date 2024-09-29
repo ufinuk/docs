@@ -44,15 +44,15 @@
 
 ### **MISSION OF UFIN GROUP**
 #### SUPPORT **1 MILLION** STARTUPS AND BUSINESSES GLOBALLY IN EMBRACING THE WEB3INTERNET ERA.
-#### - **Connect:** Identify and connect with partner providers of products and services to support the Web3 ecosystem. Additionally, UFIN assists new projects in marketing and promoting their products and services on the Web3 platform
-#### - **Educate:** Provide high-quality educational programs and training to help the community and businesses gain a better understanding of Web3, its approaches, models, and related technologies.
-#### - **Empower:** Select businesses aligned with the Web3 direction and assist them in restructuring and effectively utilizing value-added services within the Web3 ecosystem. Furthermore, UFIN provides the necessary capital and resources for startups and new projects to develop their products and services on the Web3 platform.
+- **Connect:** Identify and connect with partner providers of products and services to support the Web3 ecosystem. Additionally, UFIN assists new projects in marketing and promoting their products and services on the Web3 platform
+- **Educate:** Provide high-quality educational programs and training to help the community and businesses gain a better understanding of Web3, its approaches, models, and related technologies.
+- **Empower:** Select businesses aligned with the Web3 direction and assist them in restructuring and effectively utilizing value-added services within the Web3 ecosystem. Furthermore, UFIN provides the necessary capital and resources for startups and new projects to develop their products and services on the Web3 platform.
 
 ### **THE VALUES UFIN GROUP DELIVERS**
-#### - Providing developers, startups, and investors with a comprehensive environment of tools and resources to develop breakthrough products and services based on **Blockchain and Web3 technologies**.
-#### - Offering services to streamline the process of integrating **Web3 trends** into businesses effectively.
-#### - Assisting businesses in **implementing Web3** at the lowest cost and with full infrastructure support.
-#### - Enabling businesses to quickly enter the market.
+- Providing developers, startups, and investors with a comprehensive environment of tools and resources to develop breakthrough products and services based on **Blockchain and Web3 technologies**.
+- Offering services to streamline the process of integrating **Web3 trends** into businesses effectively.
+- Assisting businesses in **implementing Web3** at the lowest cost and with full infrastructure support.
+- Enabling businesses to quickly enter the market.
 
 ### **OBJECTIVES OF UFIN GROUP**
 ![image03-3](https://github.com/user-attachments/assets/4fa865ab-5753-4595-8e43-9a4c5bd7a383)
