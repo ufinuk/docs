@@ -1,21 +1,20 @@
 # <p align="center">**Ufin - BUILD THE WEB3 ERA!**</p>
 ![image](https://github.com/user-attachments/assets/0c9d6833-44c7-4bef-b508-ce00053e3d80)
 
-## **1. MESSAGE FROM THE FOUNDER**
-![image01-1](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
-![image01-2](https://github.com/user-attachments/assets/5ca1a736-4ef5-4e0b-a8a1-34153cf78358)
+## **1. GENERAL INTRODUCTION**
+### UFIN Group is a prominent technology corporation in the Web3 revolution. After 6 years of formation and development, UFIN has established 20 member companies, with a community of up to 2,000,000 followers.
 
-## **2. GENERAL INTRODUCTION**
-### UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
+## **2. UFIN GROUP ECOSYSTEM**
+![image](https://github.com/user-attachments/assets/585b15f4-951f-419c-baef-b5c0ce7bffb9)
 
 ## **3. HISTORY OF FORMATION AND DEVELOPMENT**
-### **2017:** Inception from a technology investment conglomerate in the United Kingdom.
-### **2018:** Establishment of branches and infrastructure development in Vietnam.
-### **2019:** Formation of technology startup companies operating in the fields of Al, Blockchain, Game, and Cloud Computing.
-### **2020:** Development and consolidation of the team.
-### **2021:** Successful fundraising of $21 million in the Seed Round.
-### **2022:** UFIN raised over $100 million for partner projects.
-### **2023:** UFIN intensifies the development of the Web3 sector.
+### **2017:** Originated from a British technology investment corporation.
+### **2018:** Setting up a branches and building infrastructure in Vietnam.
+### **2019:** Establishing a technology startup company operating in the fields of Al, Blockchain, Games, cloud computing, NFT, Web3.
+### **2020:** Developing and strengthening UFIN team.
+### **2021:** UFIN successfully raised capital of $21 million in Seed Round
+### **2022:** UFIN raises more than 100 million USD for partner projects
+### **2023:** UFIN focuses on developing the Web3 Internet
 ![image03-1](https://github.com/user-attachments/assets/ec4bfafd-623f-49fb-9c12-0a639335adff)
 
 ## 8 Subsidiary Companies
@@ -57,8 +56,6 @@
 ### **OBJECTIVES OF UFIN GROUP**
 ![image03-3](https://github.com/user-attachments/assets/4fa865ab-5753-4595-8e43-9a4c5bd7a383)
 
-## **4. UFIN GROUP ECOSYSTEM**
-![image04](https://github.com/user-attachments/assets/c7fd61e0-0559-470f-9e68-b113aa706543)
 
 ## **5. UFIN GROUP RESOURCES**
 ![image05](https://github.com/user-attachments/assets/fdbea62c-2578-48d9-8f31-0326d237a9f8)
