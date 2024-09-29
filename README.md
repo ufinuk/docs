@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/35d61ab8-02bc-4539-9eb6-cc469fa91e07)# Ufin - BUILD THE WEB3 ERA!
+# **Ufin - BUILD THE WEB3 ERA!**
 
 ## **1. MESSAGE FROM THE FOUNDER**
+![image](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
 
 ## **2. GENERAL INTRODUCTION**
 UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over the course of 6 years of formation and development, UFIN has established 8 subsidiary companies, with a community that has grown to include up to 300,000 followers.
@@ -13,13 +14,14 @@ UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over t
 **2021:** Successful fundraising of $21 million in the Seed Round.
 **2022:** UFIN raised over $100 million for partner projects.
 **2023:** UFIN intensifies the development of the Web3 sector.
+![image](https://github.com/user-attachments/assets/0626cc27-1053-486e-9513-8ace7d6f4850)
 
 ## **4. UFIN GROUP ECOSYSTEM**
 
 ## **5. UFIN GROUP RESOURCES**
 
-## 6. UFIN GROUP ACTIVITIES
+## **6. UFIN GROUP ACTIVITIES**
 
-## 7. UFIN GROUP TEAM
+## **7. UFIN GROUP TEAM**
 
-## 8. UFIN GROUP ADVISORS AND AMBASSADORS
+## **8. UFIN GROUP ADVISORS AND AMBASSADORS**
