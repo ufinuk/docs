@@ -34,13 +34,13 @@
 | UFIN TECHNOLOGY JOINT STOCK COMPANY  | 14th Floor, HM Town Building, 412 Nguyen Thi Minh Khai, Ward 05, District 3, Ho Chi Minh City, Vietnam |
 
 ### VISION - MISSION
-**VISION** <br>
-We believe that Web3 will break all boundaries, empower all users, and create a truly free world.<br>
-UFIN will become the Web3 incubator with users at the center, building successful Web3 businesses by delivering value to the community.<br>
-**MISSION** <br>
-To create an environment rich in resources, tools, and the best necessary support for businesses to develop and expand sustainably and successfully on the Web3 platform.<br>
-**CORE VALUES** <br>
-TRUST - ASSISTANCE - DEDICATION <br>
+#### **VISION** <br>
+##### We believe that Web3 will break all boundaries, empower all users, and create a truly free world.<br>
+##### UFIN will become the Web3 incubator with users at the center, building successful Web3 businesses by delivering value to the community.<br>
+#### **MISSION** <br>
+##### To create an environment rich in resources, tools, and the best necessary support for businesses to develop and expand sustainably and successfully on the Web3 platform.<br>
+#### **CORE VALUES** <br>
+##### TRUST - ASSISTANCE - DEDICATION <br>
 
 ### **MISSION OF UFIN GROUP**
 #### SUPPORT **1 MILLION** STARTUPS AND BUSINESSES GLOBALLY IN EMBRACING THE WEB3INTERNET ERA.
@@ -72,6 +72,7 @@ TRUST - ASSISTANCE - DEDICATION <br>
 #### 4. NFT Alliance
 #### 5. Saigon Entrepreneurs Club
 #### 6. Vietnam E-commerce Association (VECOM)
+![image06-1](https://github.com/user-attachments/assets/f63ef2ec-3f3a-491b-b5ef-797923fb11b5)
 
 ### **06 UNIVERSITIES AND ACADEMIES SIGNED UP FOR THE UNIVERSITY TOUR**
 #### 1. FUNiX Online University
@@ -80,14 +81,19 @@ TRUST - ASSISTANCE - DEDICATION <br>
 #### 4. Faculty of Finance and Banking - Ton Duc Thang University
 #### 5. Fintech and Financial Investment Club (HUFIC) - University of Foreign Languages and Information Technology (HUFLIT)
 #### 6. Lcademy
+![image06-2](https://github.com/user-attachments/assets/55c60b99-c241-4511-8817-0135718d833f)
 
 ### **50++ EVENTS SPONSORED BY UFIN GROUP**
 #### Manga ComicCon 2022, ICBAFM 2022, YGG SEA Vietnam Launch event, Metaverse Nova Idol 2022, Brand Booster, Marvels HCMC 2023, Dat Sen Hong Tour Master, Fintech and Blockchain Expo at the University of Foreign Languages and Information Technology, Blockchain Talk - CryptoLeakVN…
+![image06-3](https://github.com/user-attachments/assets/522adcef-bf1f-439a-b1c8-c5861b0b54b7)
 
 ### **30++ EVENTS WHERE UFIN GROUP PARTICIPATED AS SPEAKERS**
 #### ICBAFM 2022 , Crypto for Beginners by MetaGate, talkshow “GameFi and the gaming industry revolution”, P2E Expo, Blockchain Talk do Vietnam Blockchain Chapter, VietnamMobileday 2023, Lcademy
+![image06-4](https://github.com/user-attachments/assets/46d19966-4c60-4df8-bfcc-95aa53972531)
+![image06-5](https://github.com/user-attachments/assets/3e87b907-cc3b-4f9e-8988-81b0ddbd73e0)
 
 ### **100++ PROJECTS NURTURED AND SUPPORTED BY UFIN WITH RESOURCES AND FINANCIAL BACKING**
+![image06-6](https://github.com/user-attachments/assets/e345b833-4168-4893-bdc3-5644065640c3)
 
 ### **$125 MILLION UFIN ATTRACTS INVESTMENTS FROM INVESTMENT FUNDS**
 #### - $25 million invested in UFIN projects.
@@ -97,3 +103,6 @@ TRUST - ASSISTANCE - DEDICATION <br>
 ![image07](https://github.com/user-attachments/assets/096ed9f8-3097-494e-acc6-23d6276a1cfc)
 
 ## **8. UFIN GROUP ADVISORS AND AMBASSADORS**
+![image08-1](https://github.com/user-attachments/assets/2b447a32-cdb2-4cfc-973b-c9871c7c490b)
+![image08-2](https://github.com/user-attachments/assets/f3781f66-1524-4160-b683-62854a33ab9f)
+![image08-3](https://github.com/user-attachments/assets/25491b27-9fea-4249-8364-b9201794c7e4)
