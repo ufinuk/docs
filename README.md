@@ -1,5 +1,5 @@
 # <p align="center">**Ufin - BUILD THE WEB3 ERA!**</p>
-![image](https://github.com/user-attachments/assets/0c9d6833-44c7-4bef-b508-ce00053e3d80)
+
 
 ## **1. GENERAL INTRODUCTION**
 ### UFIN Group is a prominent technology corporation in the Web3 revolution. After 6 years of formation and development, UFIN has established 20 member companies, with a community of up to 2,000,000 followers.
