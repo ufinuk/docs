@@ -1,5 +1,4 @@
-<p align="center">Đây là tiêu đề lớn</p>
-# **Ufin - BUILD THE WEB3 ERA!**
+# <p align="center">**Ufin - BUILD THE WEB3 ERA!**</p>
 
 ## **1. MESSAGE FROM THE FOUNDER**
 ![image](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
