@@ -1,4 +1,5 @@
 # <p align="center">**Ufin - BUILD THE WEB3 ERA!**</p>
+![image](https://github.com/user-attachments/assets/fb534183-b62c-4849-94d1-ad8659e289b9)
 
 ## **1. MESSAGE FROM THE FOUNDER**
 ![image](https://github.com/user-attachments/assets/83c52571-0eb1-464c-aa40-385e0ad30955)
@@ -19,6 +20,8 @@ UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over t
 ![image](https://github.com/user-attachments/assets/0626cc27-1053-486e-9513-8ace7d6f4850)
 
 ## 8 Subsidiary Companies
+### With the desire to support and create a network of highly potential businesses, forming a comprehensive ecosystem with all the amenities and functionalities for users, UFIN Group has established the following subsidiary companies:
+![image](https://github.com/user-attachments/assets/400dcbe3-69fe-4ea9-9d26-d47146562c07)
 
 | Company Name                          | Address                                            |
 |---------------------------------------|----------------------------------------------------|
@@ -29,6 +32,15 @@ UFIN Group is a prominent technology conglomerate in the Web3 revolution. Over t
 | TOURISTOF                             | 316 Le Van Sy, Ward 14, Tan Binh District, Ho Chi Minh City, Vietnam |
 | UFIN TECHNOLOGY JOINT STOCK COMPANY   | Group B, To Hieu Ward, Son La Province, Vietnam    |
 | UFIN TECHNOLOGY JOINT STOCK COMPANY  | 14th Floor, HM Town Building, 412 Nguyen Thi Minh Khai, Ward 05, District 3, Ho Chi Minh City, Vietnam |
+
+### VISION - MISSION
+**VISION** <br>
+We believe that Web3 will break all boundaries, empower all users, and create a truly free world.<br>
+UFIN will become the Web3 incubator with users at the center, building successful Web3 businesses by delivering value to the community.<br>
+**MISSION** <br>
+To create an environment rich in resources, tools, and the best necessary support for businesses to develop and expand sustainably and successfully on the Web3 platform.<br>
+**CORE VALUES** <br>
+TRUST - ASSISTANCE - DEDICATION <br>
 
 ## **4. UFIN GROUP ECOSYSTEM**
 
